@@ -1,6 +1,6 @@
 ---
 name: Avrae alias feature request
-about: Suggest an idea for this project
+about: Suggest an idea for the otfbm Avrae map aliases
 title: ''
 labels: 'alias, feature'
 assignees: 'croebh, nerdsanddragons'

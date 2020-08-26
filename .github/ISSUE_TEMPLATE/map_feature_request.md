@@ -1,6 +1,6 @@
 ---
 name: Map service feature request
-about: Suggest an idea for this project
+about: Suggest an idea for the map service
 title: ''
 labels: 'map, feature'
 assignees: 'digitalsadhu, mjs1'
