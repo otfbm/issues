@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Map service feature request
 about: Suggest an idea for this project
 title: ''
 labels: 'map, feature'

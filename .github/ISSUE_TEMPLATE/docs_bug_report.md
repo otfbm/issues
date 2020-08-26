@@ -1,9 +1,9 @@
 ---
-name: Map service bug report
+name: Documentation bug report
 about: Create a report to help us improve
 title: ''
-labels: 'map, bug'
-assignees: 'digitalsadhu, mjs1'
+labels: 'documentation, bug'
+assignees: 'ydomat'
 
 ---
 
